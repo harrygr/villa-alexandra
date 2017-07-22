@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "noImplicitAny": false,
+    "strictNullChecks": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "rootDir": "./src",
+    "declaration": false,
+    "jsx": "react",
+    "module": "es2015",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "lib": [
+      "dom",
+      "es5",
+      "es2015.promise"
+    ]
+  },
+  "compileOnSave": true,
+  "filesGlob": [
+    "**/*.ts",
+    "**/*.tsx"
+  ],
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.tsx"
+  ],
+  "exclude": [
+    "node_modules",
+    "src/**/*.spec.ts"
+  ]
+}

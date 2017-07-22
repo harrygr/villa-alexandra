@@ -1,0 +1,28 @@
+/* Put your custom styles here and run `npm start` from the "src" directory on */
+
+@media (--breakpoint-not-small) {
+  .h6-ns { height: 32rem; }
+}
+@media (--breakpoint-medium) {
+  .h6-m { height: 32rem; }
+}
+
+.carousel .flickity-viewport {
+  position: absolute;
+  width: 100%;
+}
+
+.carousel {
+  padding-bottom: 33.3%;
+}
+
+/* fade in image when loaded */
+.carousel-cell-image {
+  transition: opacity 0.4s;
+  opacity: 0;
+}
+
+.carousel-cell-image.flickity-lazyloaded,
+.carousel-cell-image.flickity-lazyerror {
+  opacity: 1;
+}
