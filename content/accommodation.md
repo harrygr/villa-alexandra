@@ -1,8 +1,10 @@
 ---
-title: "Accommodation"
-date: 2017-07-22T14:00:05+01:00
-draft: false
+title: Accommodation
+date: 2017-07-22 13:00:05 +0000
+type: page
+
 ---
+
 
 ## Bedrooms
 
@@ -15,6 +17,8 @@ Bedroom 4: en-suite shower, WC.
 Bedrooms 5 & 6: en-suite bath/shower, separate WC.
 Bedroom 7: en-suite shower, separate WC.
 All rooms are on the ground floor and can be accessed or adapted for wheelchair users. There is a wheelchair and walking frame available at the house if needed.
+
+![](/uploads/2017/08/08/cat.jpeg)
 
 ## Facilities
 
@@ -31,3 +35,4 @@ All meals are included in the price and special dietary requirements can be cate
 The mature 5 acre garden is enclosed by high walls and is abundant with palm trees, olive trees (we make our own olive oil), citrus and fruit trees. A thousand roses scent the air along with mimosa and jasmine and is a perfect haven for birds. The overflow swimming pool is 20m x 5m with a “beach” area, ideal for small children to paddle, and there are plenty of sunbeds and parasols.
 
 The pool house has a drinks fridge, ping pong table, changing area, shower and WC. The pool can be heated on request, usually during Novemeber – April (extra cost applies). There are various terraces around the property which are ideally suited for different times of the day. The clay tennis court is maintained to a high standard and there are racquets available (always best to bring a fresh tin of balls!).
+
